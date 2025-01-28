@@ -1,4 +1,4 @@
-# Chatbot Application with Streamlit and LangChain
+# Conversational Chatbot Application with LangChain and Streamlit
 
 This project demonstrates how to build a conversational chatbot using the LangChain framework, OpenAI's GPT-3.5-turbo model, and Streamlit for the user interface.
 
