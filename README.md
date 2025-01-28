@@ -10,7 +10,11 @@ This project demonstrates how to build a conversational chatbot using the LangCh
 
 # Requirements
 - Python 3.8 or above.
-- OpenAI API Key.
+- OpenAI API Key
+- langchain
+- openai
+- streamlit
+- langchain_community
 
 # Key Technologies
 - LangChain: For creating conversational chains and managing memory.
